@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edaguole.github.io/FDx/sitemap_index.txt
+Sitemap: https://edaguole.github.io/Ipq/sitemap_index.txt
+Sitemap: https://edaguole.github.io/def/sitemap_index.txt
+Sitemap: https://edaguole.github.io/eoM/sitemap_index.txt
